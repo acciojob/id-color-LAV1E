@@ -3,6 +3,9 @@
 	background:yellow;
 	border: 1px green;
 }
+.yellow{
+	border:50px green;
+}
 
 #red{
 	background:red;
